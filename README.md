@@ -1,2 +1,2 @@
-# TXON_04
-This is a portfolio website created as a part of an internship in txon.
+# OBISIP-TASK2
+This is Portfolio Page for personal information created as a part of internship in oasis infobyte.
